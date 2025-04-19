@@ -42,7 +42,7 @@
                 <artifactId>javafx-maven-plugin</artifactId>
                 <version>0.0.8</version>
                 <configuration>
-                    <mainClass>org.example.Main</mainClass> <!-- update this later -->
+                    <mainClass>com.legacy.Main</mainClass> <!-- update this later -->
                     <modules>
                         <module>javafx.controls</module>
                         <module>javafx.fxml</module>
